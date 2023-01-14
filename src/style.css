@@ -17,6 +17,7 @@ ul {
 li {
   color: #70757a;
   font-size: 16px;
+  text-transform: capitalize;
   line-height: 20px;
   list-style: none;
   margin: 0;
@@ -60,6 +61,6 @@ li {
   top: -34px;
 }
 
-.fahrenheit{
-    text-decoration: none;
+.fahrenheit {
+  text-decoration: none;
 }
